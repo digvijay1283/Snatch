@@ -1,0 +1,3 @@
+usermodel = full name(string) , email(string) , password(srting) , cart(array), isAdmin(boolean),orders(array),contact(number)
+
+product model = img ,name, price, discount, panelcolor,textcolor
