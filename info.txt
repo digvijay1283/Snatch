@@ -1,3 +1,14 @@
 usermodel = full name(string) , email(string) , password(srting) , cart(array), isAdmin(boolean),orders(array),contact(number)
 
 product model = img ,name, price, discount, panelcolor,textcolor
+
+
+
+
+todays tasks 
+1. / ->signup or login 
+2. /shop -> shop 
+3. /users/cart = cart 
+4. /admin = admin panel
+5. /owner/products -> show all products 
+6. /owner/admin -> show admin panel to create an products
